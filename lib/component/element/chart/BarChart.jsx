@@ -1,3 +1,8 @@
+/**
+ * Bar chart for Reactive-JSON.
+ *
+ * @author Yosri SAYADI <yosri@emerya.fr>
+ */
 import {ActionDependant} from "@ea-lab/reactive-json";
 import {GlobalDataContext} from "@ea-lab/reactive-json";
 import {TemplateContext} from "@ea-lab/reactive-json";
