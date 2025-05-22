@@ -1,6 +1,6 @@
 {
   "name": "@ea-lab/reactive-json-chartjs",
-  "version": "0.0.21",
+  "version": "0.0.22",
   "type": "module",
   "files": [
     "dist",
@@ -42,7 +42,7 @@
   },
   "homepage": "https://bitbucket.org/ea-lab/reactive-json#readme",
   "devDependencies": {
-    "@ea-lab/reactive-json": ">=0.0.24",
+    "@ea-lab/reactive-json": ">=0.0.27",
     "@eslint/js": "^9.21.0",
     "@rollup/plugin-commonjs": "^28.0.3",
     "@rollup/plugin-node-resolve": "^16.0.1",

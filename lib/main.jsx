@@ -1,14 +1,12 @@
 /**
  * Entry point for the lib.
  */
-import BarChart from "./component/element/chart/BarChart.jsx";
-import DoughnutChart from "./component/element/chart/DoughnutChart.jsx";
-import LineChart from "./component/element/chart/LineChart.jsx";
-import PolarAreaChart from "./component/element/chart/PolarAreaChart.jsx";
+import {BarChart, ChartJS, DoughnutChart, LineChart, PolarAreaChart} from "./component/element/chart";
 
 export const chartjsComponents = {
     "element": {
         BarChart,
+        ChartJS,
         DoughnutChart,
         LineChart,
         PolarAreaChart,
