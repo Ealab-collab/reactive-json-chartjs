@@ -42,7 +42,7 @@
   },
   "homepage": "https://bitbucket.org/ea-lab/reactive-json#readme",
   "devDependencies": {
-    "@ea-lab/reactive-json": ">=0.0.27",
+    "@ea-lab/reactive-json": "^1.0.0-alpha.0",
     "@eslint/js": "^9.21.0",
     "@rollup/plugin-commonjs": "^28.0.3",
     "@rollup/plugin-node-resolve": "^16.0.1",
@@ -64,7 +64,7 @@
     "vite": "^6.2.0"
   },
   "peerDependencies": {
-    "@ea-lab/reactive-json": ">=0.0.22",
+    "@ea-lab/reactive-json": "^1.0.0-alpha.0",
     "chart.js": "^4.4.8",
     "react": ">=18",
     "react-chartjs-2": "^5.3.0",
