@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/ea-lab/reactive-json-chartjs.git"
+    "url": "git+https://github.com/Ealab-collab/reactive-json-chartjs.git"
   },
   "keywords": [
     "build",
@@ -38,9 +38,9 @@
   "author": "Quang-Minh DANG <quang-minh@ea-lab.io> (https://ea-lab.io/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/ea-lab/reactive-json/issues"
+    "url": "https://github.com/Ealab-collab/reactive-json-chartjs/issues"
   },
-  "homepage": "https://bitbucket.org/ea-lab/reactive-json#readme",
+  "homepage": "https://github.com/Ealab-collab/reactive-json-chartjs#readme",
   "devDependencies": {
     "@ea-lab/reactive-json": "^2.5.1",
     "@eslint/js": "^9.21.0",
